@@ -14,3 +14,14 @@ Pembuatan Movie list menggunakan API themoviedb
 
 3. Hasil API Key 
 <img src="https://github.com/safa911/MOVIE-LIST/blob/master/img/3.JPG" width="700">
+
+# Link API Key List dan Image
+### MainActivity.java
+```
+private String URL = "https://api.themoviedb.org/3/movie/now_playing?api_key=Pastekan API Key Anda disini&region=US";
+```
+### FilemAsync.java
+```
+https://image.tmdb.org/t/p/w500
+```
+
