@@ -22,7 +22,7 @@ public class MainActivity extends AppCompatActivity implements LoaderManager.Loa
     private Button btnMoveActivity;
 
     //
-    private String URL = "https://api.themoviedb.org/3/movie/now_playing?api_key=4705b9232840dca9e8ecf68f7133d2fb&region=US";
+    private String URL = "https://api.themoviedb.org/3/movie/now_playing?api_key=Pastekan API Key Anda disini&region=US";
 
 
     @Override
