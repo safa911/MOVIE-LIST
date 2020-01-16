@@ -25,4 +25,4 @@ private String URL = "https://api.themoviedb.org/3/movie/now_playing?api_key=Pas
 https://image.tmdb.org/t/p/w500
 ```
 
-# Download APK : [Klik Disini](https://github.com/safa911/MOVIE-LIST/blob/master/app/apk/app-debug.apk)
+# Download APK : [Klik Disini](https://docs.google.com/uc?export=download&id=1GFL-WuoD-8gJzYDAzVrxe47kijSUVYTS)
